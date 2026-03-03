@@ -1,5 +1,5 @@
 # SmartMirror
-A mirror that displays the weather, time, and various other widgets
+### A mirror that displays the weather, time, and various other widgets
 
 ## Required materials
 - Raspberry Pi
